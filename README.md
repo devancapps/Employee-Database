@@ -1,4 +1,5 @@
 # Employee Database
+![Screenshot 2023-11-18 at 11 13 14 AM](https://github.com/devancapps/Employee-Database/assets/145359970/3d31d108-b6bd-411a-af21-b4453ac9928c)
 
 ## Overview
 Employee Tracker is a Node.js command-line application for managing a company's employee database, utilizing MySQL and Inquirer for database operations and user interactions.
